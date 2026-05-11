@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of Japan?",
+        "options": {
+            "A": "Seoul",
+            "B": "Tokyo",
+            "C": "Bangkok",
+            "D": "Beijing"
+        },
+        "answer": "B",
+        "difficulty": "Easy",
+        "topic": "Geography"
+    },
+    {
+        "id": 2,
+        "question": "Which programming language is mainly used for web page styling?",
+        "options": {
+            "A": "Python",
+            "B": "Java",
+            "C": "CSS",
+            "D": "C++"
+        },
+        "answer": "C",
+        "difficulty": "Easy",
+        "topic": "Technology"
+    },
+    {
+        "id": 3,
+        "question": "Who developed the theory of relativity?",
+        "options": {
+            "A": "Isaac Newton",
+            "B": "Albert Einstein",
+            "C": "Galileo Galilei",
+            "D": "Nikola Tesla"
+        },
+        "answer": "B",
+        "difficulty": "Medium",
+        "topic": "Science"
+    },
+    {
+        "id": 4,
+        "question": "Which data structure uses the FIFO principle?",
+        "options": {
+            "A": "Stack",
+            "B": "Queue",
+            "C": "Tree",
+            "D": "Graph"
+        },
+        "answer": "B",
+        "difficulty": "Medium",
+        "topic": "Computer Science"
+    },
+    {
+        "id": 5,
+        "question": "What is the square root of 144?",
+        "options": {
+            "A": "10",
+            "B": "11",
+            "C": "12",
+            "D": "14"
+        },
+        "answer": "C",
+        "difficulty": "Easy",
+        "topic": "Mathematics"
+    },
+    {
+        "id": 6,
+        "question": "Which country hosted the 2020 Summer Olympics?",
+        "options": {
+            "A": "China",
+            "B": "Brazil",
+            "C": "Japan",
+            "D": "France"
+        },
+        "answer": "C",
+        "difficulty": "Medium",
+        "topic": "Sports"
+    },
+    {
+        "id": 7,
+        "question": "What does CPU stand for?",
+        "options": {
+            "A": "Central Process Unit",
+            "B": "Computer Personal Unit",
+            "C": "Central Processing Unit",
+            "D": "Control Processing Unit"
+        },
+        "answer": "C",
+        "difficulty": "Easy",
+        "topic": "Technology"
+    },
+    {
+        "id": 8,
+        "question": "Which ocean is the largest on Earth?",
+        "options": {
+            "A": "Atlantic Ocean",
+            "B": "Indian Ocean",
+            "C": "Arctic Ocean",
+            "D": "Pacific Ocean"
+        },
+        "answer": "D",
+        "difficulty": "Easy",
+        "topic": "Geography"
+    },
+    {
+        "id": 9,
+        "question": "Which algorithm is commonly used for shortest path problems?",
+        "options": {
+            "A": "Bubble Sort",
+            "B": "Dijkstra's Algorithm",
+            "C": "Binary Search",
+            "D": "Merge Sort"
+        },
+        "answer": "B",
+        "difficulty": "Hard",
+        "topic": "Computer Science"
+    },
+    {
+        "id": 10,
+        "question": "What is the main function of RAM in a computer?",
+        "options": {
+            "A": "Store files permanently",
+            "B": "Provide temporary memory for active processes",
+            "C": "Display graphics",
+            "D": "Control internet access"
+        },
+        "answer": "B",
+        "difficulty": "Medium",
+        "topic": "Technology"
+    }
+]
